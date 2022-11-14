@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there :wave:
 
-I'm Glaucio Jannotti known as ✨ Jannotti, natural from Espirito Santo, living in Rio de Janeiro, Brazil.
+I'm Glaucio Jannotti, known as Jannotti :wink:, natural from Espírito Santo :baby:, living in Rio de Janeiro :sunny:, Brazil.
 
 I´m an experienced software engineer, with more than 20 years working in the telco, banking, and payment arenas, working as an architect or technical leader in the development of distributed, high scale, and critical mission systems.
 
@@ -8,10 +8,7 @@ I´m passionate about coding and learning new technologies to solve complex prob
 
 I was responsible for designing and building, from the scratch, a small payment startup solution.
 
-I have expertise in developing cloud-based microservices systems and event-driven architectures.
-Knowledge of cloud, containers, and infra as code technologies. 
-
-I have good experience with secure development best practices and security certification processes, such as PCI DSS and ISO 27001.
+I have expertise developing cloud-based microservices systems and event-driven architectures and have great knowledge of cloud, containers, and infra as code technologies.
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/Java-Make?style=for-the-badge&logo=java&logoColor=white&color=ED8B00)
