@@ -21,6 +21,7 @@ I have expertise developing cloud-based microservices systems and event-driven a
 ![](https://img.shields.io/badge/PostgreSQL-Make?style=for-the-badge&logo=postgresql&logoColor=white&color=316192)
 ![](https://img.shields.io/badge/MySQL-Make?style=for-the-badge&logo=mysql&logoColor=white&color=00000F)
 ![](https://img.shields.io/badge/Mongo-Make?style=for-the-badge&logo=mongodb&logoColor=white&color=4EA94B)
+![](https://img.shields.io/badge/Dynamo_DB-Make?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white&color=4053D6)
 ![](https://img.shields.io/badge/Redis-Make?style=for-the-badge&logo=redis&logoColor=white&color=D9281A)
 ![](https://img.shields.io/badge/Linux-Make?style=for-the-badge&logo=linux&logoColor=black&color=E34F26)
 ![](https://img.shields.io/badge/Amazon_AWS-Make?style=for-the-badge&logo=amazon-aws&logoColor=white&color=232F3E)
