@@ -1,49 +1,50 @@
-# Hi 👋, I'm Glaucio Jannotti <img src="https://komarev.com/ghpvc/?username=martinsd3v&label=Visits&color=2dadd8&style=for-the-badge" alt="martinsd3v" />
+### Hi there 👋
+
+I'm Glaucio Jannotti known as ✨ Jannotti, natural from Espirito Santo, living in Rio de Janeiro, Brazil.
 
 I´m an experienced software engineer, with more than 20 years working in the telco, banking, and payment arenas, working as an architect or technical leader in the development of distributed, high scale, and critical mission systems.
 
-Passionate about coding and learning new technologies to solve complex problems or improve inefficient processes.
+I´m passionate about coding and learning new technologies to solve complex problems or improve inefficient processes.
 
-Responsible for designing and building, from the scratch, a small payment startup solution.
+I was responsible for designing and building, from the scratch, a small payment startup solution.
 
-Expertise in developing cloud-based microservices systems and event-driven architectures.
+I have expertise in developing cloud-based microservices systems and event-driven architectures.
 Knowledge of cloud, containers, and infra as code technologies. 
 
-Good experience with secure development best practices and security certification processes, such as PCI DSS and ISO 27001.
+I have good experience with secure development best practices and security certification processes, such as PCI DSS and ISO 27001.
 
 ## Technologies & Tools
-![](https://img.shields.io/badge/Linux-Make?style=for-the-badge&logo=linux&logoColor=white&color=dd4814)
-![](https://img.shields.io/badge/JavaScript-Make?style=for-the-badge&logo=javascript&logoColor=white&color=efd81c)
-![](https://img.shields.io/badge/Node-Make?style=for-the-badge&logo=go&logoColor=white&color=2dadd8)
-![](https://img.shields.io/badge/HTML-Make?style=for-the-badge&logo=html5&logoColor=white&color=dd4a25)
-![](https://img.shields.io/badge/React-Make?style=for-the-badge&logo=react&logoColor=white&color=5ed3f3)
-![](https://img.shields.io/badge/Java-Make?style=for-the-badge&logo=java&logoColor=white&color=dd4a25)
-![](https://img.shields.io/badge/Kotlin-Make?&style=for-the-badge&logo=kotlin&logoColor=white&color=efd81c)
-![](https://img.shields.io/badge/Spring-Make?style=for-the-badge&logo=spring&logoColor=white&color=dd4a25)
-![](https://img.shields.io/badge/Golang-Make?style=for-the-badge&logo=go&logoColor=white&color=2dadd8)
-![](https://img.shields.io/badge/PostgreSQL-Make?style=for-the-badge&logo=postgresql&logoColor=white&color=31648d)
-![](https://img.shields.io/badge/MySQL-Make?style=for-the-badge&logo=mysql&logoColor=white&color=dc6f28)
-![](https://img.shields.io/badge/Mongo_DB-Make?style=for-the-badge&logo=mongodb&logoColor=white&color=589530)
-![](https://img.shields.io/badge/Docker-Make?style=for-the-badge&logo=docker&logoColor=white&color=3097e4)
-![](https://img.shields.io/badge/Amazon_AWS-Make?style=for-the-badge&logo=amazon-aws&logoColor=white&color=fa9710)
-![](https://img.shields.io/badge/Google_Cloud-Make?style=for-the-badge&logo=google-cloud&logoColor=white&color=2dadd8)
-![](https://img.shields.io/badge/Kubernetes-Make?style=for-the-badge&logo=kubernetes&logoColor=white&color=fa9710)
-![](https://img.shields.io/badge/Terraform-Make?style=for-the-badge&logo=terraforms&logoColor=white&color=fa9710)
-![](https://img.shields.io/badge/Helm-Make?style=for-the-badge&logo=helm&logoColor=white&color=fa9710)
+![](https://img.shields.io/badge/Java-Make?style=for-the-badge&logo=java&logoColor=white&color=ED8B00)
+![](https://img.shields.io/badge/Kotlin-Make?&style=for-the-badge&logo=kotlin&logoColor=white&color=0095D5)
+![](https://img.shields.io/badge/Spring-Make?style=for-the-badge&logo=spring&logoColor=white&color=6DB33F)
+![](https://img.shields.io/badge/Golang-Make?style=for-the-badge&logo=go&logoColor=white&color=00ADD8)
+![](https://img.shields.io/badge/JavaScript-Make?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
+![](https://img.shields.io/badge/Node_JS-Make?style=for-the-badge&logo=node.js&logoColor=white&color=43853D)
+![](https://img.shields.io/badge/React-Make?style=for-the-badge&logo=react&logoColor=61DAFB&color=20232A)
+![](https://img.shields.io/badge/PostgreSQL-Make?style=for-the-badge&logo=postgresql&logoColor=white&color=316192)
+![](https://img.shields.io/badge/MySQL-Make?style=for-the-badge&logo=mysql&logoColor=white&color=00000F)
+![](https://img.shields.io/badge/Mongo_DB-Make?style=for-the-badge&logo=mongodb&logoColor=white&color=4EA94B)
+![](https://img.shields.io/badge/Linux-Make?style=for-the-badge&logo=linux&logoColor=black&color=E34F26)
+![](https://img.shields.io/badge/Amazon_AWS-Make?style=for-the-badge&logo=amazon-aws&logoColor=white&color=232F3E)
+![](https://img.shields.io/badge/Google_Cloud-Make?style=for-the-badge&logo=google-cloud&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/Docker-Make?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/Kubernetes-Make?style=for-the-badge&logo=kubernetes&logoColor=white&color=326DE6)
+![](https://img.shields.io/badge/Terraform-Make?style=for-the-badge&logo=terraform&logoColor=white&color=7B42BC)
+![](https://img.shields.io/badge/Helm-Make?style=for-the-badge&logo=helm&logoColor=white&color=326DE6)
 
 ## Other Skills
-![](https://img.shields.io/badge/DDD-Make?style=for-the-badge&color=333)
-![](https://img.shields.io/badge/TDD-Make?style=for-the-badge&color=2dadd8)
-![](https://img.shields.io/badge/SOLID-Make?style=for-the-badge&color=333)
-![](https://img.shields.io/badge/Clean_Code-Make?style=for-the-badge&color=2dadd8)
-![](https://img.shields.io/badge/Microservices-Make?style=for-the-badge&color=333)
+![](https://img.shields.io/badge/DDD-Make?style=for-the-badge&color=2dadd8)
+![](https://img.shields.io/badge/TDD-Make?style=for-the-badge&color=333)
+![](https://img.shields.io/badge/SOLID-Make?style=for-the-badge&color=2dadd8)
+![](https://img.shields.io/badge/Clean_Code-Make?style=for-the-badge&color=333)
+![](https://img.shields.io/badge/Microservices-Make?style=for-the-badge&color=2dadd8)
+![](https://img.shields.io/badge/Event_Driven-Make?style=for-the-badge&color=333)
 ![](https://img.shields.io/badge/Clean_Architecture-Make?style=for-the-badge&color=2dadd8)
-![](https://img.shields.io/badge/Hexagonal_Architecture-Make?style=for-the-badge&color=333)
 
 ## 📫 Contacts
 <a href="mailto:jannotti.glaucio@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Email-Make?style=for-the-badge&logo=gmail&color=white" />
+    <img align="center" src="https://img.shields.io/badge/Email-Make?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" />
 </a>
-<a href="www.linkedin.com/in/gjannotti" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Linkedin-Make?style=for-the-badge&logo=linkedin&color=2666c2" />
+<a href="www.linkedin.com/in/jannotti-glaucio" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Linkedin-Make?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" />
 </a>
