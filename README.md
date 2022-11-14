@@ -31,6 +31,8 @@ I have expertise developing cloud-based microservices systems and event-driven a
 ![](https://img.shields.io/badge/Terraform-Make?style=for-the-badge&logo=terraform&logoColor=white&color=7B42BC)
 ![](https://img.shields.io/badge/Helm-Make?style=for-the-badge&logo=helm&logoColor=white&color=E6522C)
 ![](https://img.shields.io/badge/Ansible-Make?style=for-the-badge&logo=ansible&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Rabbit_MQ-Make?style=for-the-badge&logo=rabbitmq&logoColor=white&color=FF6600)
+![](https://img.shields.io/badge/Kafka-Make?style=for-the-badge&logo=apachekafka&logoColor=white&color=000000)
 
 ## Other Skills
 ![](https://img.shields.io/badge/DDD-Make?style=for-the-badge&color=2dadd8)
