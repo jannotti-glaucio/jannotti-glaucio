@@ -25,8 +25,8 @@ I have expertise developing cloud-based microservices systems and event-driven a
 ![](https://img.shields.io/badge/Linux-Make?style=for-the-badge&logo=linux&logoColor=black&color=E34F26)
 ![](https://img.shields.io/badge/Amazon_AWS-Make?style=for-the-badge&logo=amazon-aws&logoColor=white&color=232F3E)
 ![](https://img.shields.io/badge/Google_Cloud-Make?style=for-the-badge&logo=google-cloud&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Docker-Make?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/Kubernetes-Make?style=for-the-badge&logo=kubernetes&logoColor=white&color=326DE6)
+![](https://img.shields.io/badge/Docker-Make?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/Terraform-Make?style=for-the-badge&logo=terraform&logoColor=white&color=7B42BC)
 ![](https://img.shields.io/badge/Helm-Make?style=for-the-badge&logo=helm&logoColor=white&color=E6522C)
 ![](https://img.shields.io/badge/Ansible-Make?style=for-the-badge&logo=ansible&logoColor=white&color=000000)
@@ -39,6 +39,7 @@ I have expertise developing cloud-based microservices systems and event-driven a
 ![](https://img.shields.io/badge/Microservices-Make?style=for-the-badge&color=2dadd8)
 ![](https://img.shields.io/badge/Event_Driven-Make?style=for-the-badge&color=333)
 ![](https://img.shields.io/badge/Clean_Architecture-Make?style=for-the-badge&color=2dadd8)
+![](https://img.shields.io/badge/Hexagonal_Architecture-Make?style=for-the-badge&color=333)
 
 ## 📫 Contacts
 <a href="mailto:jannotti.glaucio@gmail.com" target="blank">
