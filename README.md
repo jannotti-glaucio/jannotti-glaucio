@@ -17,7 +17,6 @@ I have expertise developing cloud-based microservices systems and event-driven a
 ![](https://img.shields.io/badge/Spring-Make?style=for-the-badge&logo=spring&logoColor=white&color=6DB33F)
 ![](https://img.shields.io/badge/JavaScript-Make?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
 ![](https://img.shields.io/badge/Node_JS-Make?style=for-the-badge&logo=node.js&logoColor=white&color=43853D)
-![](https://img.shields.io/badge/React-Make?style=for-the-badge&logo=react&logoColor=61DAFB&color=20232A)
 ![](https://img.shields.io/badge/PostgreSQL-Make?style=for-the-badge&logo=postgresql&logoColor=white&color=316192)
 ![](https://img.shields.io/badge/MySQL-Make?style=for-the-badge&logo=mysql&logoColor=white&color=00000F)
 ![](https://img.shields.io/badge/Mongo-Make?style=for-the-badge&logo=mongodb&logoColor=white&color=4EA94B)
